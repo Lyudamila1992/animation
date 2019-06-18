@@ -141,11 +141,11 @@ BODY {
         }
     40% {
       margin-left: -4.5em;
-        opacity: 0.8;
+        opacity: 1;
       }
     45% {
         margin-left: -4em;
-        opacity: 0.9;
+        opacity: 1;
         }
     47% {
     margin-left: -3em;
@@ -157,22 +157,28 @@ BODY {
       width: 5em;
       height: 5em;
       margin-left: -2.5em;
+       opacity: 1;
       }
     60% {
        margin-left: 1.5em;
+        opacity: 1;
       }
     70% {
       margin-left: 3.5em;
+        opacity: 1;
       }
     80% {
       margin-left: 2.5em;
+        opacity: 0.8;
       }
     90% {
       margin-left: 1em;
+        opacity: 0.5;
       }
     100% {
       left: 98%;
       margin-left: -2.5em;
+        opacity: 0.5;
       }
   }
   
