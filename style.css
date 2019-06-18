@@ -117,31 +117,39 @@ BODY {
       }
     10% {
       margin-left: -4.5em;
+        opacity: 0.2;
       }
     15% {
         margin-left: -5em;
+        opacity: 0.3;
         }
     20% {
       margin-left: -5.5em;
-       z-index: -1;
+        opacity: 0.4;
       }
     25% {
         margin-left: -5.7em;
+        opacity: 0.5;
         }
     30% {
       margin-left: -6em;
+        opacity: 0.6;
       }
     35% {
         margin-left: -5.5em;
+        opacity: 0.7;
         }
     40% {
       margin-left: -4.5em;
+        opacity: 0.8;
       }
     45% {
         margin-left: -4em;
+        opacity: 0.9;
         }
     47% {
     margin-left: -3em;
+        opacity: 1;
             }
     50% {
       left: 50%;
