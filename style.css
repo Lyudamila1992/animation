@@ -123,6 +123,7 @@ BODY {
         }
     20% {
       margin-left: -5.5em;
+        opacity: 0.3;
       }
     25% {
         margin-left: -5.7em;
@@ -170,11 +171,9 @@ BODY {
   @keyframes sun-color {
     1% {
       background: darkred;
-        opacity: 0.2;
     }
     20% {
         background: orange;
-        opacity:  0.2;
       }
     40% {
         background: gold;
