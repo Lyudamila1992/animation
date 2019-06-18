@@ -170,9 +170,11 @@ BODY {
   @keyframes sun-color {
     1% {
       background: darkred;
+        opacity: 0.2;
     }
     20% {
         background: orange;
+        opacity:  0.2;
       }
     40% {
         background: gold;
