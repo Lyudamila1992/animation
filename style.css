@@ -123,7 +123,7 @@ BODY {
         }
     20% {
       margin-left: -5.5em;
-       z-index: 1;
+       z-index: 99;
       }
     25% {
         margin-left: -5.7em;
