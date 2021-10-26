@@ -394,4 +394,52 @@ BODY {
     width: 1em;
     height: 1em;
    }
+    @keyframes sun-move {
+    10% {
+      margin-left: -4.5em;
+      bottom: -10%;
+      opacity: 0.5;
+      }
+    15% {
+        margin-left: -5em;
+        bottom: -10%;
+        opacity: 0.5;
+        }
+    20% {
+      margin-left: -5.5em;
+        bottom: -10%;
+        opacity: 0.5;
+      }
+    25% {
+        margin-left: -5.7em;
+        opacity: 0.5;
+        }
+    30% {
+      margin-left: -6em;
+        opacity: 0.6;
+      }
+    35% {
+        margin-left: -5.5em;
+        opacity: 0.7;
+        }
+    40% {
+      margin-left: -4.5em;
+        opacity: 1;
+      }
+    45% {
+        margin-left: -4em;
+        opacity: 1;
+        }
+    47% {
+    margin-left: -3em;
+        opacity: 1;
+            }
+    50% {
+      left: 50%;
+      bottom: 110%;
+      width: 5em;
+      height: 5em;
+      margin-left: -2.5em;
+       opacity: 1;
+      }
 }
